@@ -1,6 +1,6 @@
 # larafonts
 Font repo for [lara](https://github.com/rooootdev/lara)
-currently hosting hot shit🔥
+- currently hosting hot shit🔥
 ## make your own repo:
 1. Fork this repo
 2. Delete the old fonts
