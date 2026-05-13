@@ -15,11 +15,11 @@
     },
     {
       "name": "Papyrus",
-      "url": "https://github.com/tiziodied/filslarafonts/raw/refs/heads/main/fonts/Papyrus.ttf",
+      "url": "https://github.com/tiziodied/filslarafonts/raw/refs/heads/main/fonts/papyrus.ttf",
       "format": "truetype"
     },
     {
-          "name": "Wingdings",
+      "name": "Wingdings",
       "url": "https://github.com/tiziodied/filslarafonts/raw/refs/heads/main/fonts/wingdings.ttf",
       "format": "truetype"
     },
