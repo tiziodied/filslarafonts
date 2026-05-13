@@ -18,5 +18,10 @@
       "url": "https://github.com/tiziodied/filslarafonts/raw/refs/heads/main/fonts/Papyrus.ttf",
       "format": "truetype"
     },
+    {
+          "name": "Wingdings",
+      "url": "https://github.com/tiziodied/filslarafonts/raw/refs/heads/main/fonts/wingdings.ttf",
+      "format": "truetype"
+    },
   ]
 }
