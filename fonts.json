@@ -14,7 +14,7 @@
       "format": "truetype"
     },
     {
-      "name": "Papyrus (does not fucking work)",
+      "name": "Papyrus (doesnt work)",
       "url": "https://github.com/tiziodied/filslarafonts/raw/refs/heads/main/fonts/papyrus.ttf",
       "format": "truetype"
     },
@@ -23,5 +23,12 @@
       "url": "https://github.com/tiziodied/filslarafonts/raw/refs/heads/main/fonts/wingdings.ttf",
       "format": "truetype"
     },
+  ]
+    "emojis": [
+    {
+      "name": "Twemoji 🤔",
+      "url": "https://github.com/tiziodied/larafonts/raw/refs/heads/main/emojis/twemoji.ttc",
+      "format": "truetype"
+    }
   ]
 }
